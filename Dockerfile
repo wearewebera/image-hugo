@@ -5,6 +5,7 @@ RUN brew install \
   jq \
   node \
   hugo \
-  dart-sass
+  sass/sass/sass
+
 
 
